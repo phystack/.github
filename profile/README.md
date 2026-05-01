@@ -18,10 +18,10 @@ not months**.
 
 - AI-powered kiosks, terminals, and signage
 - On-device inference workflows for smart cities, agriculture, and logistics
-- Real-time edge apps for footfall analytics, predictive maintenance, and
-  public safety
-- Transaction-enabled systems: edge-triggered billing, access control,
-  smart vending
+- Real-time edge apps for predictive maintenance, public safety, and
+  computer vision
+- Device fleet management — provisioning, configuration, and monitoring
+  at scale
 - Hybrid deployments with optional cloud sync — **offline-first,
   fail-safe always**
 
@@ -38,10 +38,8 @@ not months**.
 - **PhyOS** — edge-native operating system supporting containerized
   deployments, OTA updates, and secure app orchestration
 - **Developer Console** — frictionless onboarding, billing, and app management
-- **Reusable pipelines** — Detection → Trigger → UI → Transaction,
+- **Reusable pipelines** — Detection → Trigger → UI → Action,
   pluggable across use cases
-- **Built-in payments** — NFC, QR, and card-ready infrastructure for
-  monetizing physical interactions
 
 ## 🛍️ Built on PhyStack
 
